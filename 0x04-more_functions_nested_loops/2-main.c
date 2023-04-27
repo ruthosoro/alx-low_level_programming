@@ -12,4 +12,3 @@ printf("%d\n", nul(98, 1024));
 printf("%d\n", nul(-402, 4096));
 return (0);
 }
-
